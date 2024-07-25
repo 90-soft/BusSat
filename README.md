@@ -1,8 +1,8 @@
-# User Agreement for the "Echo Bus" Application
+# User Agreement for the "Bussat" Application
 
 
 ## Introduction:
-Welcome to Echo Bus! This Privacy Policy outlines how we collect, use, share, and protect your information when you use the Echo Bus mobile application (the "App").
+Welcome to Bussat! This Privacy Policy outlines how we collect, use, share, and protect your information when you use the Bussat mobile application (the "App").
 
 ### Information We Collect
 #### Personal Information:
@@ -42,4 +42,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ## About this app
 Bring peace to every school journey.
-Echo Bus is not just a tracking app; it's a comprehensive solution for schools to enhance their reputation and safety standards. By providing parents with real-time bus tracking and peace-of-mind features.
+Bussat is not just a tracking app; it's a comprehensive solution for schools to enhance their reputation and safety standards. By providing parents with real-time bus tracking and peace-of-mind features.
